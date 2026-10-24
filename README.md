@@ -83,9 +83,11 @@ Primary data table: `EMS`
 
 ## 📸 Dashboard Screenshots
 
-<img width="1292" height="812" alt="Screenshot 2026-10-25 030644" src="https://github.com/user-attachments/assets/b4f33469-723d-4af7-95c8-654861147a06" />
-<img width="1295" height="815" alt="Screenshot 2026-10-25 030705" src="https://github.com/user-attachments/assets/8f7ca004-736b-4d1b-94fe-7fd7fd39d878" />
-<img width="1300" height="818" alt="Screenshot 2026-10-25 030721" src="https://github.com/user-attachments/assets/64273125-cfba-47b3-93ae-0ab140f7a64a" />
+<img width="1300" height="842" alt="Screenshot 2026-10-25 031434" src="https://github.com/user-attachments/assets/c3d96769-2ec6-4f6f-9d40-6b0afedd2f61" />
+
+<img width="1297" height="846" alt="Screenshot 2026-10-25 031456" src="https://github.com/user-attachments/assets/1f83b471-84c7-4445-ac4a-05d24c2eb928" />
+
+<img width="1301" height="847" alt="Screenshot 2026-10-25 031522" src="https://github.com/user-attachments/assets/b51a5948-a649-4d67-9828-b957fcd0e068" />
 
 ---
 
