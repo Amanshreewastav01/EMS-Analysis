@@ -81,19 +81,11 @@ Primary data table: `EMS`
 
 ---
 
-## 📸 Screenshots
+## 📸 Dashboard Screenshots
 
-| Page | Description |
-|------|-------------|
-| ![Page 1] <img width="1292" height="812" alt="Screenshot 2026-10-25 030644" src="https://github.com/user-attachments/assets/b4f33469-723d-4af7-95c8-654861147a06" />
-
- | Business Performance |
-| ![Page 2] <img width="1295" height="815" alt="Screenshot 2026-10-25 030705" src="https://github.com/user-attachments/assets/8f7ca004-736b-4d1b-94fe-7fd7fd39d878" />
-
- | Dealer Journey |
-| ![Page 3] <img width="1300" height="818" alt="Screenshot 2026-10-25 030721" src="https://github.com/user-attachments/assets/64273125-cfba-47b3-93ae-0ab140f7a64a" />
-
- | Summary Explanation |
+<img width="1292" height="812" alt="Screenshot 2026-10-25 030644" src="https://github.com/user-attachments/assets/b4f33469-723d-4af7-95c8-654861147a06" />
+<img width="1295" height="815" alt="Screenshot 2026-10-25 030705" src="https://github.com/user-attachments/assets/8f7ca004-736b-4d1b-94fe-7fd7fd39d878" />
+<img width="1300" height="818" alt="Screenshot 2026-10-25 030721" src="https://github.com/user-attachments/assets/64273125-cfba-47b3-93ae-0ab140f7a64a" />
 
 ---
 
